@@ -1,3 +1,3 @@
-module github.com/launchdarkly-labs/find-affected-packages
+module github.com/hkraftno/find-affected-packages
 
 go 1.13
